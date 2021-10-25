@@ -1,0 +1,9 @@
+[submodule "libjdx"]
+	path = libjdx
+	url = https://github.com/jeffreycshelton/libjdx.git
+[submodule "jdx-rust"]
+	path = jdx-rust
+	url = https://github.com/jeffreycshelton/jdx-rust.git
+[submodule "jdx-clt"]
+	path = jdx-clt
+	url = https://github.com/jeffreycshelton/jdx-clt.git
