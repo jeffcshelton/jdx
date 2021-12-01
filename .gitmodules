@@ -7,3 +7,6 @@
 [submodule "jdx-clt"]
 	path = jdx-clt
 	url = https://github.com/jeffreycshelton/jdx-clt.git
+[submodule "jdx-python"]
+	path = jdx-python
+	url = https://github.com/jeffreycshelton/jdx-python.git
